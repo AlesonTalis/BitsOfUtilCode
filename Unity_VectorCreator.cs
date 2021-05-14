@@ -13,7 +13,7 @@ public static partial class F
   public static Vector2 V2(float x, float y) => new Vector2() { x = x, y = y };
 
   /// <summary>
-  /// Create a Vector2
+  /// Create a Vector3
   /// </summary>
   /// <param name="x">the x value</param>
   /// <param name="y">the y value</param>
